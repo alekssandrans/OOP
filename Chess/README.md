@@ -1,4 +1,4 @@
-# Chess
+# Chess [Homework]
 
 - Knight class
 - Rook class
